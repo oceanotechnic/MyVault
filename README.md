@@ -1,2 +1,0 @@
-# MyVault
-ObsidianVault
