@@ -1,0 +1,2 @@
+# MyVault
+ObsidianVault
