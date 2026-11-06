@@ -1,0 +1,69 @@
+
+| Наименование                                                                                                                                  |     Магазин     |  Цена   | Примечание             |
+| --------------------------------------------------------------------------------------------------------------------------------------------- | :-------------: | :-----: | ---------------------- |
+| **Фреймсет:**<br> Рама Sarma Foka v3 XL<br> Вилка Sarma Foka v3 карбон<br> Ось передняя 197х12<br> Ось задняя 150х15<br> Dehydron<br> Рулевая | Sarma <br>Bikes |  64900  |                        |
+| **Трансмиссия:**                                                                                                                              |                 |         |                        |
+| Система SRAM NX DUB Fat 5<br>Каретка SRAM DUB PF                                                                                              | Sarma<br>Bikes  |  14500  |                        |
+| Задний переключатель S-Ride RD-M620                                                                                                           |   Aliexpress    | 4482,59 |                        |
+| Манетка S-Ride SL-M610 12 скоростей                                                                                                           |   Aliexpress    | 2776,41 |                        |
+| Кассета Sunshine 11-50 12 скоростей                                                                                                           |   Aliexpress    |  3517   |                        |
+| Цепь Taya TOLV-121Silver                                                                                                                      |                 |  ~2400  |                        |
+| Рубашка манетки Jagwire LEX-SL                                                                                                                |                 |  ~600   |                        |
+| **Тормоза:**                                                                                                                                  |                 |         |                        |
+| Тормоза Avid BB-7                                                                                                                             |   Aliexpress    |  6696   |                        |
+| Ручки Avid FR-5                                                                                                                               |                 |  ~1300  |                        |
+| Рубашки Jagwire                                                                                                                               |                 |         |                        |
+| Тросы Jagwire                                                                                                                                 |                 |         |                        |
+| Тормозные диски 180мм/160мм 6-bolts                                                                                                           |                 |         |                        |
+| **Колеса:**                                                                                                                                   |                 |         |                        |
+| Втулка передняя                                                                                                                               |                 |         | ~6090                  |
+| Втулка задняя                                                                                                                                 |                 |         | ~9555                  |
+| Обода Surly Clown Shoe TR 100мм                                                                                                               |                 |  11056  | Мулефуты <br>на замену |
+| Спицы Pillar                                                                                                                                  |                 |  ~3600  |                        |
+| Ниппеля Sapim Secure Lock                                                                                                                     |                 |  ~2500  |                        |
+| Покрышки Schwalbe JumboJim 4.8 / <br>Schwalbe Al Mighty 4.8                                                                                   |      есть       |    0    |                        |
+| Лента ободная ZTTO 80мм                                                                                                                       |      есть       |    0    |                        |
+| **Кокпит:**                                                                                                                                   |                 |         |                        |
+| Руль Sarma Bikes                                                                                                                              |        —        |  1200   |                        |
+| Грипсы неопрен                                                                                                                                |                 |         |                        |
+| Рога Ergon/BBB                                                                                                                                |      есть       |    0    |                        |
+| Вынос UNO                                                                                                                                     |                 |         |                        |
+| Подседел Toseek карбон                                                                                                                        |                 |         |                        |
+| **Итого:**                                                                                                                                    |                 | 109128  |                        |
+   
+
+**Frameset:**
+- [x] frame
+- [x] forx
+- [x] front axle
+- [x] rear axle
+- [x] headset
+- [x] Dehydron
+**Wheels:**
+- [ ] Front Hub (Bittex/Xenium)
+- [ ] Rear Hub (Bittex/Xenium)
+- [ ] Spokes (Pillar 2014)
+- [ ] Nipples (Sapim SecureLock)
+- [/] Ringles (SunRingle Mulefut 80 replace for Surly ClownShoe 100) 📅 2026-12-02
+**Transmisson:**
+- [x] Cranckset (Sram NX) (TorxLab)
+- [ ] Chain (Taya/KMC X-12/Sram Eagle)
+- [/] Rear Derauler S-Ride M-620 (Ali) 🛫 2026-11-05 📅 2026-11-26
+- [/] Shifter S-Ride M-610 (Ali) 🛫 2026-11-05 📅 2026-11-26
+- [/] Cassete Sunshine 12s (Ali) 🛫 2026-11-05 📅 2026-11-18
+- [ ] Insulation
+**Cockpit:**
+- [x] Saddle Brooks B17
+- [ ] Saddle Stem (Toseek 30.4 L=350)
+- [x] bar Sarma (Zoom)
+- [ ] Bar Stem (Uno, 100 mm)
+- [ ] Grips
+- [ ] Shifter jacket
+**Brakes:**
+- [x] Front Brake (Avid BB-7)
+- [x] Rear Brake (Avid BB-7)
+- [ ] Brake levers (Avid FR-5) 
+- [ ] Adapter PM160/180
+- [ ] Brake Discs 180/160 6-bolts
+- [ ] Brake jacket
+- [ ] Brake cable
