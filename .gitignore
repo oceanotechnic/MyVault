@@ -1,3 +1,7 @@
 # Ignore /assets/images/
 
 /assets/images/
+
+# Ignore /.obsidian
+
+/.obsidian
