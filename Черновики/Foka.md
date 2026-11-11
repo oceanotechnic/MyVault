@@ -59,7 +59,7 @@
 - [ ] Saddle Stem (Toseek 30.4 L=350)
 - [x] bar Sarma (Zoom)
 - [/] Bar Stem (Uno, 100 mm)
-- [ ] Grips
+- [/] Grips
 - [/] Shifter jacket
 **Brakes:**
 - [x] Front Brake (Avid BB-7)
@@ -67,5 +67,5 @@
 - [/] Brake levers (Avid FR-5)
 - [/] Adapter PM160/180 🛫 2026-11-11 📅 2026-11-15
 - [/] Brake Discs 180/160 6-bolts 📅 2026-12-02
-- [ ] Brake jacket
-- [ ] Brake cable
+- [/] Brake jacket
+- [/] Brake cable
