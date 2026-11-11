@@ -32,7 +32,7 @@
 | Подседел Toseek карбон                                                                                                                        |                                                                                                                                                   |         |                        |
 | Шумоизоляция                                                                                                                                  |         [Ozon](https://www.ozon.ru/product/dempfer-rubashki-dlya-shumoizolyatsii-vnutrenney-provodki-velosipeda-dlina-1-6-m-1715318435/)          |   263   |                        |
 | Кольца проставочные карбон                                                                                                                    | [Ozon](https://www.ozon.ru/product/vynos-velosipeda-uno-100-mm-zagib-7-gradusov-ves-140g-2863317894/?is_apparel_size_selected=true&sh=hSIfJo2sUA) |   609   |                        |
-| **Итого:**                                                                                                                                    |                                                                                                                                                   | 109128  |                        |
+| **Итого:**                                                                                                                                    |                                                                                                                                                   | 120751  |                        |
    
 
 **Frameset:**
@@ -59,13 +59,13 @@
 - [x] Saddle Brooks B17
 - [ ] Saddle Stem (Toseek 30.4 L=350)
 - [x] bar Sarma (Zoom)
-- [ ] Bar Stem (Uno, 100 mm)
+- [/] Bar Stem (Uno, 100 mm)
 - [ ] Grips
-- [ ] Shifter jacket
+- [/] Shifter jacket
 **Brakes:**
 - [x] Front Brake (Avid BB-7)
 - [x] Rear Brake (Avid BB-7)
-- [ ] Brake levers (Avid FR-5) 
+- [/] Brake levers (Avid FR-5)
 - [/] Adapter PM160/180 🛫 2026-11-11 📅 2026-11-15
 - [/] Brake Discs 180/160 6-bolts 📅 2026-12-02
 - [ ] Brake jacket
