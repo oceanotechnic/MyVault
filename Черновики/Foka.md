@@ -7,7 +7,7 @@
 | Задний переключатель S-Ride RD-M620                                                                                                           |                                                                             Aliexpress                                                                             | 4482,59 |                        |
 | Манетка S-Ride SL-M610 12 скоростей                                                                                                           |                                                                             Aliexpress                                                                             | 2776,41 |                        |
 | Кассета Sunshine 11-50 12 скоростей                                                                                                           |                                                                             Aliexpress                                                                             |  3517   |                        |
-| Цепь Taya TOLV-121Silver                                                                                                                      |                                                                                                                                                                    |  ~2400  |                        |
+| Цепь Taya TOLV-121Silver                                                                                                                      |                                  [Ozon](https://www.ozon.ru/product/velosipednaya-tsep-taya-tolv-silver-12-skorostey-5427970571/)                                  |  ~2400  |                        |
 | Рубашка манетки Jagwire LEX-SL                                                                                                                |                                                                                                                                                                    |  ~600   |                        |
 | **Тормоза:**                                                                                                                                  |                                                                                                                                                                    |         |                        |
 | Тормоза Avid BB-7                                                                                                                             |                                                                             Aliexpress                                                                             |  6696   |                        |
@@ -48,7 +48,7 @@
 - [/] Ringles (SunRingle Mulefut 80 replace for Surly ClownShoe 100) 📅 2026-12-02
 **Transmisson:**
 - [x] Cranckset (Sram NX) (TorxLab)
-- [ ] Chain (Taya/KMC X-12/Sram Eagle)
+- [ ] Chain (Taya) 
 - [/] Rear Derauler S-Ride M-620 (Ali) 🛫 2026-11-05 📅 2026-11-26
 - [/] Shifter S-Ride M-610 (Ali) 🛫 2026-11-05 📅 2026-11-26
 - [/] Cassete Sunshine 12s (Ali) 🛫 2026-11-05 📅 2026-11-18
