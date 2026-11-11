@@ -30,6 +30,7 @@
 | Рога Ergon/BBB                                                                                                                                |                                                                                есть                                                                                |    0    |                        |
 | Вынос UNO                                                                                                                                     |                                                                                                                                                                    |  ~900   |                        |
 | Подседел Toseek карбон                                                                                                                        |                                                                                                                                                                    |         |                        |
+| Шумоизоляция                                                                                                                                  |                  [Ozon](https://www.ozon.ru/product/dempfer-rubashki-dlya-shumoizolyatsii-vnutrenney-provodki-velosipeda-dlina-1-6-m-1715318435/)                  |   263   |                        |
 | **Итого:**                                                                                                                                    |                                                                                                                                                                    | 109128  |                        |
    
 
@@ -52,7 +53,7 @@
 - [/] Rear Derauler S-Ride M-620 (Ali) 🛫 2026-11-05 📅 2026-11-26
 - [/] Shifter S-Ride M-610 (Ali) 🛫 2026-11-05 📅 2026-11-26
 - [/] Cassete Sunshine 12s (Ali) 🛫 2026-11-05 📅 2026-11-18
-- [ ] Insulation
+- [/] Insulation 🛫 2026-11-11 📅 2026-11-15
 **Cockpit:**
 - [x] Saddle Brooks B17
 - [ ] Saddle Stem (Toseek 30.4 L=350)
