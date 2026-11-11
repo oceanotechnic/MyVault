@@ -15,7 +15,7 @@
 | Рубашки Jagwire                                                                                                                               |                                                                                                                                                                    |         |                        |
 | Тросы Jagwire                                                                                                                                 |                                                                                                                                                                    |         |                        |
 | Тормозные диски 180мм/160мм 6-bolts                                                                                                           | [Ozon](https://www.ozon.ru/product/tormoznoy-disk-rotor-shimano-sm-rt86-160-180-mm-oem-bez-upakovki-2-sht-1662811039/?is_apparel_size_selected=true&sh=hSIfJqBC3A) |  4840   |                        |
-| Адаптер PM160/PM180                                                                                                                           |                                                                                                                                                                    |         |                        |
+| Адаптер PM160/PM180 <br>Shimano SM-MA-F180P/P2                                                                                                |                                  [Ozon](https://www.ozon.ru/product/shimano-sm-ma-f180p-p2-adapter-diskovogo-tormoza-1863568040/)                                  |   708   |                        |
 | **Колеса:**                                                                                                                                   |                                                                                                                                                                    |         |                        |
 | Втулка передняя                                                                                                                               |                                                                                                                                                                    |         | ~6090                  |
 | Втулка задняя                                                                                                                                 |                                                                                                                                                                    |         | ~9555                  |
@@ -64,7 +64,7 @@
 - [x] Front Brake (Avid BB-7)
 - [x] Rear Brake (Avid BB-7)
 - [ ] Brake levers (Avid FR-5) 
-- [ ] Adapter PM160/180
+- [/] Adapter PM160/180 🛫 2026-11-11 📅 2026-11-15
 - [/] Brake Discs 180/160 6-bolts 📅 2026-12-02
 - [ ] Brake jacket
 - [ ] Brake cable
