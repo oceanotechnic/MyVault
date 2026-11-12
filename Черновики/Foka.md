@@ -16,9 +16,9 @@
 | Тормозные диски 180мм/160мм 6-bolts                                                                                                           |              [Ozon](https://www.ozon.ru/product/tormoznoy-disk-rotor-shimano-sm-rt86-160-180-mm-oem-bez-upakovki-2-sht-1662811039/)               |  4840   |                        |
 | Адаптер PM160/PM180 <br>Shimano SM-MA-F180P/P2                                                                                                |                         [Ozon](https://www.ozon.ru/product/shimano-sm-ma-f180p-p2-adapter-diskovogo-tormoza-1863568040/)                          |   708   |                        |
 | **Колеса:**                                                                                                                                   |                                                                                                                                                   |         |                        |
-| Втулка передняя                                                                                                                               |                                                                                                                                                   |         | ~6090                  |
-| Втулка задняя                                                                                                                                 |                                                                                                                                                   |         | ~9555                  |
-| Обода Surly Clown Shoe TR 100мм                                                                                                               |                                                                                                                                                   |  11056  | Мулефуты <br>на замену |
+| Втулка передняя                                                                                                                               |                                                                                                                                                   |  4032   | ~6090                  |
+| Втулка задняя                                                                                                                                 |                                                                                                                                                   |  6462   | ~9555                  |
+| Обода Surly Clown Shoe TR 100мм                                                                                                               |                                                                                                                                                   |  14546  | Мулефуты <br>на замену |
 | Спицы Pillar                                                                                                                                  |                                                                                                                                                   |         | ~3600                  |
 | Ниппеля Sapim Secure Lock                                                                                                                     |                                                                                                                                                   |         | ~2500                  |
 | Покрышки Schwalbe JumboJim 4.8 / <br>Schwalbe Al Mighty 4.8                                                                                   |                                                                       есть                                                                        |    0    |                        |
@@ -42,8 +42,8 @@
 - [x] headset
 - [x] Dehydron
 **Wheels:**
-- [ ] Front Hub (Bittex/Xenium)
-- [ ] Rear Hub (Bittex/Xenium)
+- [/] Front Hub (Bittex/Xenium)
+- [/] Rear Hub (Bittex/Xenium)
 - [ ] Spokes (Pillar 2014)
 - [ ] Nipples (Sapim SecureLock)
 - [/] Ringles (SunRingle Mulefut 80 replace for Surly ClownShoe 100) 📅 2026-12-02
@@ -56,7 +56,7 @@
 - [/] Insulation 🛫 2026-11-11 📅 2026-11-15
 **Cockpit:**
 - [x] Saddle Brooks B17
-- [ ] Saddle Stem (Toseek 30.4 L=350)
+- [ ] Saddle Stem (Toseek 30.8 L=350)
 - [x] bar Sarma (Zoom)
 - [/] Bar Stem (Uno, 100 mm)
 - [/] Grips
