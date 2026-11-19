@@ -11,3 +11,5 @@ https://veloroad.spb.ru/Travel/2003/belomorsk_11_15122003.htm
 https://veloroad.spb.ru/Travel/2004/BeloeMore_11_14122004.htm
 
 https://dm-nodal.livejournal.com/53297.html
+
+https://www.avito.ru/murino/velosipedy/kargo_velosiped_gruzovoy_norh_transit_8163181497
