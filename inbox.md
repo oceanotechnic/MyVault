@@ -9,3 +9,5 @@ https://bike-caucasus.ru/trails/65-karachaycherkessia-pereval-phiya
 #### Сумпосад — Малошуйка
 https://veloroad.spb.ru/Travel/2003/belomorsk_11_15122003.htm  
 https://veloroad.spb.ru/Travel/2004/BeloeMore_11_14122004.htm
+
+https://dm-nodal.livejournal.com/53297.html
