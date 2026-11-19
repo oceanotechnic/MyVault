@@ -56,7 +56,7 @@
 - [/] Insulation 🛫 2026-11-11 📅 2026-11-15
 **Cockpit:**
 - [x] Saddle Brooks B17
-- [ ] Saddle Stem (Toseek 30.8 L=350)
+- [/] Saddle Stem (Toseek 30.8 L=350)
 - [x] bar Sarma (Zoom)
 - [/] Bar Stem (Uno, 100 mm)
 - [/] Grips
