@@ -14,4 +14,4 @@ https://dm-nodal.livejournal.com/53297.html
 
 https://beacon1143.livejournal.com/51868.html
 
-https://www.avito.ru/murino/velosipedy/kargo_velosiped_gruzovoy_norh_transit_8163181497
+https://onega.bezformata.com/listnews/chut-chut-rasskazhu-vam/114916502/
