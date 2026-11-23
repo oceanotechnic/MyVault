@@ -19,3 +19,9 @@ https://onega.bezformata.com/listnews/chut-chut-rasskazhu-vam/114916502/
 #### Кенозерье
 
 https://yarodom.livejournal.com/2011507.html
+
+#### LLM
+
+https://petr-panda.ru/prompty-dlya-meta-opisaniy/
+https://petr-panda.ru/prompty-dlya-klyuchevyh-slov/
+https://www.it-agency.ru/blog/prompts-text-rewriting/
