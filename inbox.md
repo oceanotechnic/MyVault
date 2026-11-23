@@ -15,3 +15,7 @@ https://dm-nodal.livejournal.com/53297.html
 https://beacon1143.livejournal.com/51868.html
 
 https://onega.bezformata.com/listnews/chut-chut-rasskazhu-vam/114916502/
+
+#### Кенозерье
+
+https://yarodom.livejournal.com/2011507.html
