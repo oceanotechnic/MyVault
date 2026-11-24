@@ -16,6 +16,8 @@ https://beacon1143.livejournal.com/51868.html
 
 https://onega.bezformata.com/listnews/chut-chut-rasskazhu-vam/114916502/
 
+https://love-smirnova.livejournal.com/15269.html
+
 #### Кенозерье
 
 https://yarodom.livejournal.com/2011507.html
