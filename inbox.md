@@ -27,4 +27,5 @@ https://yarodom.livejournal.com/2011507.html
 https://petr-panda.ru/prompty-dlya-meta-opisaniy/  
 https://petr-panda.ru/prompty-dlya-klyuchevyh-slov/  
 https://www.it-agency.ru/blog/prompts-text-rewriting/  
-https://habr.com/ru/articles/1023036/
+https://habr.com/ru/articles/1023036/  
+https://habr.com/ru/companies/tsnis/articles/1054802/
